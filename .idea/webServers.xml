@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e6248b1b-eeaa-4424-a699-d4d033119d6e" name="kazakov.v_qschool@newgrade-crt" url="http://p3.kazakovv_qschool.newgrade.vpool/?login=yes">
+        <fileTransfer rootFolder="/home/CREAT0RS/kazakov.v_qschool/p3/htdocs" accessType="SFTP" host="newgrade.vpool" port="22" sshConfigId="57468798-1685-47c8-9a82-3ab2f45f9c34" sshConfig="kazakov.v_qschool@newgrade.vpool:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
